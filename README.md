@@ -19,7 +19,7 @@ Tenho experiência com versionamento de código (Git/GitHub), consumo de APIs RE
 
 ## 📫 Contato
 
-[LinkedIn](www.linkedin.com/in/leonardo-cunes-92ba33358) • [WhatsApp](https://api.whatsapp.com/send/?phone=16920047404&text&type=phone_number&app_absent=0) • [Email](leocunes@gmail.com)
+[LinkedIn](www.linkedin.com/in/leonardo-cunes) • [WhatsApp](https://api.whatsapp.com/send/?phone=16920047404&text&type=phone_number&app_absent=0) • [Email](leocunes@gmail.com)
 
 ---
 
